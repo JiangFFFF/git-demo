@@ -12,4 +12,4 @@ hello world! hello git!
 hello world! hello git!
 hello worlddddd
 hello worlddddd master test
-hello worlddddd
+hello worlddddd hot-fix test
